@@ -44,7 +44,7 @@ import aphaLogo from "./assets/company_logo/APHA.png";
 import lshiLogo from "./assets/company_logo/LSHI.jpeg";
 
 // Education Section Logo's
-import islamiyahLogo from "./assets/education_logo/islamiyah.png";
+import islamiyahLogo from "./assets/education_logo/islamiyah_logo.png";
 import unpamLogo from "./assets/education_logo/unpam.png";
 
 // Project Section Logo's
