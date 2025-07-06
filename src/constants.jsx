@@ -40,9 +40,6 @@ import canvaLogo from "./assets/tech_logo/canva.png";
 import coreldrawLogo from "./assets/tech_logo/coreldraw.png";
 
 // Experience Section Logo's
-import webverseLogo from "./assets/company_logo/webverse_logo.png";
-import agcLogo from "./assets/company_logo/agc_logo.png";
-import newtonschoolLogo from "./assets/company_logo/newtonschool_logo.png";
 import aphaLogo from "./assets/company_logo/APHA.png";
 import lshiLogo from "./assets/company_logo/LSHI.jpeg";
 
