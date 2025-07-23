@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaGlobe, FaLinkedin } from "react-icons/fa";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -88,6 +88,14 @@ const Navbar = () => {
             className="text-gray-300 hover:text-[#8245ec]"
           >
             <FaLinkedin size={24} />
+          </a>
+          <a
+            href="https://www.murie.web.id/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-300 hover:text-[#8245ec]"
+          >
+            <FaGlobe size={24} />
           </a>
         </div>
 
